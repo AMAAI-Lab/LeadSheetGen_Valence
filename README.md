@@ -5,7 +5,7 @@
 A novel seq2seq framework where high-level musicalities (such us the valence of the chord progression) are fed to the Encoder, and they are "translated" to lead sheet events in the Decoder. For further details please read and cite our paper:
 
 
-##### Makris, Dimos, Kat R. Agres, and Dorien Herremans. (Generating Lead Sheets with Affect: A Novel Conditional seq2seq Framework)[https://dorienherremans.com/sites/default/files/2104.13056.pdf]." Proceedings of the International Joint Conference on Neural Networks (IJCNN) (2021).
+##### Makris, Dimos, Kat R. Agres, and Dorien Herremans. [Generating Lead Sheets with Affect: A Novel Conditional seq2seq Framework](https://dorienherremans.com/sites/default/files/2104.13056.pdf)." Proceedings of the International Joint Conference on Neural Networks (IJCNN) (2021).
 
  
 ## Prerequisites
